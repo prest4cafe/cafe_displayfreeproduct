@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>cafe_displayfreeproduct</name>
+	<displayName><![CDATA[cafe_displayfreeproduct]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Display free product instead price]]></description>
+	<author><![CDATA[presta.cafe]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
